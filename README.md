@@ -44,7 +44,7 @@ git clone git@github.com:Nasirkhan294/hello-rails-react.git
 To install dependencies Run the following commands:
 
 ```
-  yarn install
+  npm install
   bundle install
 ```
 
@@ -55,12 +55,6 @@ To run the project, execute the following command:
   rails s
 ```
 
-To run tests, run the following command:
-
-```
-rails test
-
-```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
